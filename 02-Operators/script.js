@@ -30,3 +30,10 @@ console.log((n1 < n2) && (n2 > n1));
 console.log(n1 > n2 || n3 < n4);
 console.log(!(n1 > n2));
 console.log((n1 < n2 && n2 < n3) || n4 < n1);
+
+let x = 5;
+
+console.log(x == "5");
+console.log(x === "5");
+console.log(x !== 8);   
+console.log(x <= 8);     
